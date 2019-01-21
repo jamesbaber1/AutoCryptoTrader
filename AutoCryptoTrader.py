@@ -4,9 +4,9 @@ import datetime
 import pprint
 
 
-api_key = "6iUWY4TXdLWw94AOi3Jdm4WRQFl6Eif2jUOK1suDSQxMc0QVNBUL70hrjZ1a3K03"
+api_key = ""
 
-api_secret = "yPWub1YdqI174nN1WF6TjT9HWvMWH9hRqz9Ds9BpambcCR9MjNgXvd375E9krXiN"
+api_secret = ""
 
 #ATTENTION:  Always start with a buy first time through
 
